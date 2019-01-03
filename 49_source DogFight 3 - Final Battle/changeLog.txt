@@ -1,0 +1,198 @@
+//----------------------------------//
+//------- DF3 - Changelog ----------//
+//----------------------------------//
+
+  Alpha 04:
+
+    - Logfile created
+
+    - Changed networkcode to a new design, to decrease lag.
+
+    - Added lot of hit detection to client (para, Men, Spec, Missile, Field, Animal...)
+
+  Alpha 05:
+
+    - Para price changed from 350 to 100
+
+    - Shield price changed from 800 to 1000
+
+    - Blood added (Yeah...)
+
+    - Fixed resource leak in client network code
+
+    - Fixed buffer underrun bug
+
+    - More aggressive tiger (miaw...)
+
+    - Changed color on plane, so enemies plane are darker...
+
+    - Missiles at level 2 or higher, is controlled by player now
+
+    - Fixed missile not disappearing on hit
+
+    - Fixed bug in server KeyUpdate
+
+  Beta 01:
+
+    - Changed some text messages
+
+    - Max 2500 money per player
+
+    - Plane-invisible mode changed to player control with key 4
+
+    - Fixed problem with buymenu on server
+
+    - Changed para-stealth price from 1200 to 1000
+
+    - Fixed para-stealth only to work when man is using parachute
+
+    - Added escape ball to Para-menu
+
+    - Fixed melting grass problem on bridge level
+
+    - Added Plasma missile (Be careful!)
+
+    - 2 spec shot, don't kill each other
+
+    - spec collision, now sent to clients
+
+    - Poision-advance now shake the hitted player screen
+
+    - Bigger punish when flying out of screen (up-side)
+
+    - hits number corrected. Could NOT show minus number
+
+  Beta 02:
+
+    - Changed max money from 2500 to 3000
+
+    - Changed missile (speed, price, rotate, fuel)
+
+    - Collision on Man/Plane result in man become stuck in plane
+
+    - Bug fixed, stealth key4 should work perfect now
+
+    - Strange behaviour on plane-apparts fixed now
+
+    - Shield don't protect agains plane-collision anymore 
+
+    - 100 more money to winner team
+
+    - Hits bug fixed
+
+  Beta 03:
+
+    - Shield collison bug with plane fixed
+
+    - Ball don't glue on plane anymore 
+
+    - Man don't looks like a box, when exiting escape-ball
+
+    - Quick-para price changed from 500 to 300
+
+    - Quick-foldout price changed from 900 to 500
+
+    - Plasma missile made more fair
+
+    - Player name on splashed man onscreen
+
+    - Version check
+
+  Beta 04:
+
+    - Fixed name not follow splashed-man
+
+    - Fixed splashed-parachute not follow plane
+
+    - Hit don't count when shooting ball
+
+    - Winner team now get 150 instead of 300 when winning
+
+    - Every hit now give 100 instead of 50
+
+    - Ball corrected to more floating movement
+
+    - Plane without pilot, don't get effected by black-sky anymore
+
+    - Max size for sky increased
+
+    - More aggressive tiger
+
+  Version 0.95:
+
+    - Beta state over
+
+    - Added Elephant
+
+    - Added Seagull
+
+    - Changed Plasma missile
+
+    - Faster shot price changed from 300 to 500
+
+    - Double Damage shot price changed from 500 to 1000
+    
+    - Bigger shot price change from 1200 to 1000
+
+    - Invisible shot price changed from 1500 to 2500
+
+    - Player who hit you turn red in prepare state
+
+  Version 0.96:
+    
+    - When firing rocket, plane speed dropdown by 50%
+
+    - Projectiles now releative to plane speed
+
+    - Animals now warp with screen side
+
+    - Dead seagull can hit planes now
+
+  Version 0.97:
+
+    - Fixed bug in exponent releative projectiles speed
+
+    - Possible to pick a man up from ground
+
+    - Increased move range on animals
+
+  Version 0.98:
+
+    - Para button, now work on (2,3,4,w,r,s,d,f)
+
+    - Fixed Tab-order in dialog box
+
+    - Easier to pick up man from ground with planes
+
+    - Added runtime stats list
+
+    - Weapons have a reload time on ½ Second.
+
+  Version 0.982:
+
+    - Removed para button, (2,3,4). Conflicted with missile control. )-:
+
+    - Fixed bug color, in stats kill
+
+    - Stats life changed from 3sec to 4sec
+
+    - Red planes, don't fly up-side down
+
+  Version 0.984
+
+    - Removed F3 F4 collision boxes, because of cheat using.
+
+    - Fixed Plane/Man crash stats.
+
+    - Spec shot can't kill life without ground stun. Spec shot can only remove fire if highter or same level.
+
+  Version 0.99
+
+    - Possible to use parachute multi time. Removing it and setting it on again.
+
+    - Man sitting on plane, can't kill the plane with spec, fire and missile.
+
+
+
+
+
