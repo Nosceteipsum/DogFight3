@@ -1,7 +1,7 @@
 # DogFight3
 Source code for Dog Fight 3 from 2005.  
 A classic Lan multiplayer party game for Windows OS written in C++ with Visual Studio.  
-![DogFight3_Image](http://logicwork.net/timeline/sparetime/windows_df32.jpg)
+![DogFight3_Image](http://logicwork.net/images/github/windows_df32.jpg)
 
 ## Libraries used
 * OpenGl  (Graphic)  
